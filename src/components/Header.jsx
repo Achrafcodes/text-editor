@@ -5,4 +5,4 @@ export default class Header extends Component {
     return <div>Header</div>;
   }
 }
-//ts
+console.log('hello');
